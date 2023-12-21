@@ -1,1 +1,14 @@
-{}
+{
+  "backendUrls": [
+    "http://dragonment.com",
+    "http://zhekal.com",
+    "http://narsistejarat.com"
+  ],
+  "resistanceUrl": [
+    "http://dragonment.com/dragon.json",
+    "http://zhekal.com/dragon.json",
+    "http://narsistejarat.com/dragon.json",
+    "https://raw.githubusercontent.com/stasbariatric768/dragon/main/dragon.json"
+  ],
+  "validationPeriod": 720000
+}
